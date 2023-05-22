@@ -1,2 +1,2 @@
-# Multiclass-classification-using-a-CNN-architecture
- Using CNN in detection of pneumonia disease
+# CNN_pneumonia
+ using CNN for classification for pneumonia disease
